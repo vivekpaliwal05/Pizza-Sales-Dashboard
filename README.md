@@ -13,6 +13,7 @@ This project is a Power BI dashboard created for analyzing Domino's sales data.
 ## Tools Used
 - Power BI
 - Excel / CSV Dataset
+- sql
 
 ## Project Purpose
 The goal of this project is to practice data analytics and data visualization skills using Power BI
